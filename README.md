@@ -1,2 +1,2 @@
-# project-26
-how to make pizza 
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
